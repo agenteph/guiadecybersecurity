@@ -1,71 +1,27 @@
 <p align="center">
   <a href="https://github.com/arthurspk/guiadecybersecurity">
-    <img src="./images/guia.png" alt="Guia de Cyber Security" width="160" height="160">
+    <img src="./images/guia.png" alt="Guia de Cyber Security (adaptado)" width="160" height="160">
   </a>
   <h1 align="center">Guia de Cyber Security</h1>
 </p>
 
-## :dart: O guia para alavancar a sua carreira
+## :dart: O guia de Cyber Segurança
 
 Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profissional na área de segurança da informação ou se especializar caso você já atue na área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em segurança da informação, alguns sites ou artigos podem estar em um idioma diferente do seu, porém isso não impede que você consiga realizar a leitura do artigo ou site em questão, você pode utilizar a ferramenta de tradução do Google para traduzir: sites, arquivos, textos.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9FkQJ9p4pM)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/imsecsecurity/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EscolaHackerEtico)
 </sub>
-
-## :closed_book: E-Book
-
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
-
-- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
 
 ## ⚠️ Aviso importante
 
-> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
-
-- Me siga no [Github](https://github.com/arthurspk)
-- Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
-- Mande feedbacks no [Linkedin](https://www.linkedin.com/in/arthurspk/)
-
-## 💡 Nossa proposta
-
-> A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
-
-## :beginner: Para quem está começando agora
-
-> Não se assuste com a quantidade de conteúdo apresentados neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
-
-## 🚨 Colabore
-
-- Abra Pull Requests com atualizações
-- Discuta ideias em Issues
-- Compartilhe o repositório com a sua comunidade
-
-## 🌍 Tradução
-> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português , você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
-
-<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+> Este guia foi adaptado para melhor vizualização do Guia de Cyber Security aqui: https://github.com/arthurspk/guiadecybersecurity. 
 
 ## 📚 ÍNDICE
 
 [🗺️ Cyber Security roadmap](#%EF%B8%8F-cyber-security-roadmap) <br>
-[🔧 Ferramentas para tradução de conteúdo](#-ferramentas-para-tradução-de-conteúdo) <br>
 [🧥 Introdução a área de Cyber Security](#-introdução-a-área-de-cyber-security) <br>
 [💼 Carreiras na área de Cyber Security](#-carreiras-na-área-de-cyber-security) <br>
 [🕵️‍♂️ Sites para estudar Cyber Security](#%EF%B8%8F%EF%B8%8F-sites-para-estudar-cyber-security) <br>
@@ -117,14 +73,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## 🗺️ Cyber Security roadmap
 
 ![Cyber Security roadmap](https://i.imgur.com/eq4uu7P.jpg)
-
-## 🔧 Ferramentas para tradução de conteúdo
-> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português , desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
-
-- [Google Translate](https://translate.google.com.br/?hl=pt-BR)
-- [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
-- [DeepL](https://www.deepl.com/pt-BR/translator)
-- [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
 
 ## 🧥 Introdução a área de Cyber Security
 > Também chamada de segurança de computadores ou segurança da tecnologia da informação, a cybersecurity é a prática de proteção de hardwares e softwares contra roubo ou danos, como servidores, dispositivos móveis, redes e aplicativos, as pessoas que atuam na área de Cyber Security de uma empresa são responsáveis por identificar todos os pontos vulneráveis do negócio no ambiente digital e em variados sistemas, o trabalho consiste em mapear todos os pontos fracos, que podem ser usados como porta de acesso para ataques virtuais. Além disso, é importante simular todos os possíveis ataques que poderiam ser realizados e criar proteções contra eles, antevendo os fatos para poder reforçar a segurança das informações e a redundância dos processos e sistemas de bancos de dados, a fim de evitar que haja interrupção de serviços, de uma forma geral, é esperado que as pessoas que trabalham com Cyber Security realizem uma série de atividades, tais como:
